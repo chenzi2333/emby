@@ -1,15 +1,15 @@
 # 来源： CC（直连规则）
-# 最后更新时间：2025-07-31
+# 最后更新时间：2025-11-28
 
 # 规则名称: Emby
 # 规则统计: 0
-DOMAIN-SUFFIX, c2.staryuki.me
-DOMAIN-SUFFIX, c1.staryuki.me
-DOMAIN-SUFFIX,staryuki.me.kiven.cc
-DOMAIN-SUFFIX,kfc.v50.su:443
-DOMAIN-SUFFIX,emby.v50.su:443
-DOMAIN-SUFFIX,emby.kiki888.fun
-DOMAIN-SUFFIX,kikiwebdav.iepose.cn
+DOMAIN-SUFFIX, emby.my
+DOMAIN-SUFFIX, 
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
 IP-CIDR, 152.53.67.239/32, no-resolve
 IP-CIDR, 168.119.137.205/32, no-resolve
 IP-CIDR, 188.172.228.49/32, no-resolve
